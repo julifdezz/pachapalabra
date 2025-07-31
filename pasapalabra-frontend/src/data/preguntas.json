@@ -1,0 +1,27 @@
+[
+  {
+    "letra": "A",
+    "palabra": "amigo",
+    "definicion": "Persona con la que se mantiene una relación de afecto."
+  },
+  {
+    "letra": "B",
+    "palabra": "barco",
+    "definicion": "Vehículo flotante que se utiliza para navegar por el agua."
+  },
+  {
+    "letra": "C",
+    "palabra": "cielo",
+    "definicion": "Espacio en el que se mueven los astros y donde están las nubes."
+  },
+  {
+    "letra": "D",
+    "palabra": "dedo",
+    "definicion": "Parte de la mano o del pie que se usa para agarrar o señalar."
+  },
+  {
+    "letra": "E",
+    "palabra": "estrella",
+    "definicion": "Cuerpo celeste que brilla con luz propia en el cielo."
+  }
+]
